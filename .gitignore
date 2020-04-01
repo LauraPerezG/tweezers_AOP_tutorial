@@ -1,5 +1,4 @@
 
 .DS_Store
-sec_4_5_statistical_physics/double_well/results/CriticalPoints.mat
-sec_4_5_statistical_physics/double_well/results/MapafuerzasDoblePozo.mat
-sec_4_5_statistical_physics/double_well/results/PerfilPotencialFuerzaDoblePozo.mat
+*.DS_Store
+
